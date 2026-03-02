@@ -1,0 +1,18 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+.venv/
+env/
+
+# Data 
+# data/socialmedia.csv
+
+# System Files
+.DS_Store
